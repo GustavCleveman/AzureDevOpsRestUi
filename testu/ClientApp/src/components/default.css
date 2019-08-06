@@ -1,0 +1,8 @@
+﻿#cursorChange {
+    cursor: pointer;
+    color: cornflowerblue;
+}
+
+    #cursorChange:hover {
+        color: darkblue;
+    }
